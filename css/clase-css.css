@@ -1,0 +1,65 @@
+body{
+    background-color:gray;
+    color:blue;
+    font-family: 'Montserrat', sans-serif , sans-serif;
+    text-transform: uppercase;
+
+}
+
+p{
+    background-color: white;
+   border: 1px white;
+   transition:all  1000ms ease;
+}
+.color-rojo{
+
+    color: red;
+      
+     text-align:center;
+     text-transform:capitalize;
+}
+
+
+.color-verde
+{
+    color: green
+}
+
+
+
+p{
+
+
+    border: 1px
+}
+
+p:nth-child(odd){
+    color: red;
+    text-align: center;
+    text-transform: lowercase
+    
+    
+
+}
+
+p:nth-child(even){
+    color: green;
+}
+/*
+
+ a partir de aqui todo lo que tenga que ver con X o Y seccion
+ */
+
+
+ .color-rojo:hover {
+     color:green;
+     background-color: red;
+ }
+div{
+
+    padding: 20px;
+    width: 50%;
+}
+
+
+
