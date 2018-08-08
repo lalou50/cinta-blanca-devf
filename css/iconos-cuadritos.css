@@ -1,0 +1,77 @@
+body{
+    background-color: lightgray
+}
+
+
+.contenedor{
+    float: left;
+}
+
+.tarjeta{
+    background-color: rgb(255, 255, 248);
+    border:1px solid gray;
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: gray 1px 1px 1px;
+    float: left;
+    margin: 5px;
+    transition: all 500ms ease;
+color: gray;
+font-size: 26px;
+text-justify: distribute-all-lines
+  
+}
+.fas
+{
+
+    font-size: 55px;
+    color:gray;
+
+    
+}
+
+
+
+.p
+ {
+    font-size: 25px
+
+
+}
+
+.tarjeta:hover{
+    width: 350px;
+    transform: scale(1.1);
+    box-shadow: gray 10px 10px 10px;
+    background-color:burlywood;
+}
+
+nav{
+     
+    background-color: blue;
+padding: 5px;
+
+
+}
+
+nav h3 {
+color: white;
+float: left;
+
+}
+
+nav .derecha{
+    float: right;
+}
+
+
+header p{
+
+
+    color: white;
+    font-size: 20px;
+    
+    
+}
