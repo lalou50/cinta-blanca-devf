@@ -1,0 +1,26 @@
+
+.postit{
+
+    border: 1px solid black;
+
+    background-color:blue;
+
+    height: 60px;
+    padding: 1px;
+ 
+
+}
+.fondo-amarillo{
+
+    border: 1px solid black;
+
+    background-color: yellow;
+    
+}
+
+.col-1{
+padding:1px
+
+
+
+}
