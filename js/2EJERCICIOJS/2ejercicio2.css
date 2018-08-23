@@ -1,20 +1,47 @@
+
+
+
 nav{
+
       
+
     padding: 20px; 
+
    background-color: rgb(13, 194, 226);
+
 height: 76px; 
+
 display:flex;
+
 flex-direction: row;
+
 justify-content: center;
+
    } 
 
+
+
 .tarjeta { 
+
     
+
  background-color: white;
+
  border-radius: 5px;
+
  float: left;
+
  padding:10px;
+
  width:auto;
+
  margin:5px;
- box-shadow: 1px 1px 1px gray;
+
+ box-shadow: 3px 2px 2px 5px gray;
+ 
 }
+
+.democlass {
+    color: red;
+css5.txt
+Mostrando js5.txt.
