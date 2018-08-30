@@ -1,0 +1,41 @@
+body{
+
+ 
+
+    text-align: center;
+  
+  background-color: white;
+  
+  }
+  
+   
+  
+   
+  
+   
+  
+  h1.titulo{
+  
+   
+  
+  font-family: "Times New Roman", Times, serif;
+  
+  color: white;
+  
+   
+  
+  }
+  
+  .slidecontainer{
+width: 75%;
+margin-left: 7%;
+
+
+  }
+.carrousel-item img{
+
+
+width: 200px;
+height: 200px;
+
+}
